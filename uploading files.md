@@ -26,4 +26,11 @@ Find the place you want to insert your file link, and put your cursor there. The
 
 <img src="/images/uploading files/link dialog.png" width="400" />
 
-Click Browse Server, click Upload, click Add files, and then add the file from your computer. Finally, hit `ctrl-f` or `command-f` on a mac, search for your file name, and double click the file. Hit Okay in the link dialog, and your file should be on the server and have a link to it!
+Finally, just follow this series of steps to insert a link to your file:
+
+* Click Browse Server
+* Click upload <img src="/images/uploading files/upload.png" width="60" />
+* Click Add files <img src="/images/uploading files/add files.png" width="60" /> and then add the file from your computer.
+* Hit `ctrl-f` or `command-f` on a mac, search for your file name, and double click the file <img src="/images/uploading files/file.png" width="60" />
+* Hit OK <img src="/images/uploading files/ok.png" width="60" /> in the link dialog, and your file should be on the server and have a link to it!
+ 
