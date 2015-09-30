@@ -1,2 +1,7 @@
-# UMCSG-Uploading-Files
-A tutorial on how to upload files such as meeting minutes, applications, etc. to the CSG website
+# UM CSG Tutorials
+
+Tutorials for authors on how to perform tasks for the Central Student Government website
+
+Topics covered: writing articles, uploading files, editing pages
+
+_To read a tutorial, simply click_ `tutorial name.md` and follow along
