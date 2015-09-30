@@ -12,7 +12,7 @@ If you're not logged in, find the "login" link at the bottom of the page. If you
 
 Finally, you should see something like
 
-![Edit Buttons](/images/uploading files/buttons.png)
+<img src="/images/uploading files/buttons.png" width="200" />
 
 at the bottom of the page. Click "Edit".
 
@@ -22,8 +22,8 @@ You should now be seeing something like
 
 ![Edit Page](/images/uploading files/edit page.png)
 
-Find the place you want to insert your file link, and put your cursor there. Then click the link button (![Link Button](/images/uploading files/link button.png)) You'll see the link dialog
+Find the place you want to insert your file link, and put your cursor there. Then click the link button ( <img src="/images/uploading files/link button.png" width="48" /> ) You'll see the link dialog
 
-![Link Dialog](/images/uploading files/link dialog.png)
+<img src="/images/uploading files/link dialog.png" width="400" />
 
 Click Browse Server, click Upload, click Add files, and then add the file from your computer. Finally, hit `ctrl-f` or `command-f` on a mac, search for your file name, and double click the file. Hit Okay in the link dialog, and your file should be on the server and have a link to it!
