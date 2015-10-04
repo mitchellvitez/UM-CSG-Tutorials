@@ -22,4 +22,10 @@ Next, open the `trips` table. I recommend you export this table as some sort of 
 
 The next part is very straightforward, if a little tedious. Basically, now you transform the sheets CSG gives you into db-ready data. You only have to account for eastbound trips (AA to Detroit) since Airbus on the way back acts in a more open shuttle style. Make sure you have unique ids on each element, that the season number is correct, that you've only added Eastbound trips, that the trip dates are correct, and that the open time matches the reservation open time, and the close time is 6pm the day before the bus leaves (e.g. `2015-10-10 17:59:59`). Bus capacity is 48 unless decided otherwise.
 
-Once you've made the changes, import the file back into the `trips` table.
+Once you've made the changes, import the file back into the `trips` table. To check that everything is working successfully up to this point, check `https://csg.umich.edu/airbus/orms/reserve.php?trip=TRIPID`, where `TRIPID` is a trip id (I checked 1840).
+
+## Back to HTML
+
+Go back to where you've ftp-ed into the server, and go to `airbus/Private/html`. Copy one of the `schedXXX.htm`s and rename it (using the year works to avoid conflicts). Here, there's plenty to change, but it's pretty obvious so I'll be glossing over that for now. Just make sure to go over the page thoroughly and ensure accuracy.
+
+
