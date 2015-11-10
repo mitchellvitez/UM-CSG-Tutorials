@@ -30,9 +30,7 @@ Finally, just follow this series of steps to insert a link to your file:
 
 Click Browse Server
 
-Click upload <img src="/images/uploading files/upload.png" width="100" />
-
-Click Add files <img src="/images/uploading files/add files.png" width="140" /> and then add the file from your computer.
+Use [MFile](mfile.umich.edu) and go to the directory `/afs/umich.edu/group/u/umcsg/Private/html/files/files`. Upload your files there.
 
 Hit `ctrl-f` or `command-f` on a mac, search for your file name, and double click the file <img src="/images/uploading files/file.png" width="250" />
 
